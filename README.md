@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 **B.Sc Computer Science** \
-**Memorial University of Newfoundland** • 2023\
+**Memorial University of Newfoundland** \
 Skills: `Obj-Orient Prorgamming ` `Software Engineering` `Software Architecture` `Web Programming`
 `Algorithm Design & Analysis` `Game Programming` `Professional Ethics` `Computer Networking`
 
